@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a1b170b-0c91-4a98-b7c8-cbd4d7cda0c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../franco_PA3/franco_p1/franco_p1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../franco_PA3/franco_p2/franco_p2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DuplicateRemover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/franco_p1/franco_p1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/franco_p1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../franco_p2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../franco_p2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../franco_p2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../franco_p2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../franco_p2/franco_p2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../franco_p2/out/production/franco_p2/SavingsAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../franco_p2/out/production/franco_p2/franco_p2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../franco_p2/src/SavingsAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../franco_p2/src/franco_p2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/franco_p1/META-INF/franco_p1.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +22,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1T4VjX816jVVOjUCqsZNLCvs6oO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -90,6 +77,8 @@
       <option name="presentableId" value="Default" />
       <updated>1572719491547</updated>
       <workItem from="1572719504143" duration="14480000" />
+      <workItem from="1572765945388" duration="2521000" />
+      <workItem from="1572770039555" duration="153000" />
     </task>
     <servers />
   </component>
@@ -101,7 +90,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
